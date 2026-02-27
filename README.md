@@ -3,7 +3,7 @@
 ### Sr. Software Engineer | Full-Stack Architect @ Mir Info Systems
 Currently specialized in building and scaling high-availability enterprise solutions for **Grameenphone (GP)**.
 
-- 🚀 **Currently Scaling:** Grameenphone's digital ecosystem (GPFI, GP-Web, GP-Shop, Flexiplan, and Roaming).
+- 🚀 **Currently Scaling:** Grameenphone's digital ecosystem (GPFI, GP-Web, GP-Shop, and Flexiplan).
 - 🛠 **Expertise:** Drupal, Laravel, Vue.js, and Dockerized Microservices.
 - 📈 **Focus:** Load balancing, high-traffic optimization, and secure telecom integrations.
 - 🌱 **Learning:** Python, Django, and Advanced System Design.
@@ -14,7 +14,7 @@ Currently specialized in building and scaling high-availability enterprise solut
 **Lead Backend Developer (Augmented via Mir Info Systems)**
 - **GP Web & Shop:** Architected the Drupal-based backend for GP’s primary web and e-commerce platforms. 
 - **Infrastructure:** Implemented **Docker** for containerization and **Load Balancing** to maintain stability for millions of users.
-- **Modules:** Developed specialized solutions for **Flexiplan**, **Roaming**, and **GPFI**.
+- **Modules:** Developed specialized solutions for **Flexiplan**, and **GPFI**.
 
 ---
 
