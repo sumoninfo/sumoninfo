@@ -1,32 +1,101 @@
-# Hi, I'm Md. Ekramul 👋 
+# Md. Ekramul
+### Senior Software Engineer | Backend Architect
 
-### Sr. Software Engineer | Full-Stack Architect @ Mir Info Systems
-Currently specialized in building and scaling high-availability enterprise solutions for **Grameenphone (GP)**.
+Senior Software Engineer with over 6 years of experience designing and building scalable, high-availability enterprise applications.  
+Currently leading backend engineering initiatives for large-scale telecom and e-commerce platforms at Grameenphone (GP) via Mir Info Systems.
 
-- 🚀 **Currently Scaling:** Grameenphone's digital ecosystem (GPFI, GP-Web, GP-Shop, and Flexiplan).
-- 🛠 **Expertise:** Drupal, Laravel, Vue.js, and Dockerized Microservices.
-- 📈 **Focus:** Load balancing, high-traffic optimization, and secure telecom integrations.
-- 🌱 **Learning:** Python, Django, and Advanced System Design.
+I specialize in backend architecture, API-driven systems, performance optimization, and production-grade infrastructure for high-traffic applications serving millions of users.
 
 ---
 
-### 🏆 Featured Enterprise Work (Grameenphone)
-**Lead Backend Developer (Augmented via Mir Info Systems)**
-- **GP Web & Shop:** Architected the Drupal-based backend for GP’s primary web and e-commerce platforms. 
-- **Infrastructure:** Implemented **Docker** for containerization and **Load Balancing** to maintain stability for millions of users.
-- **Modules:** Developed specialized solutions for **Flexiplan**, and **GPFI**.
+## 🧠 Core Expertise
+
+- Scalable Backend Architecture
+- RESTful API & Microservices Design
+- High-Traffic System Optimization
+- Database Performance Tuning
+- Dockerized Deployment & Load Balancing
+- Enterprise System Integration
 
 ---
 
-### 🛠 Tech Stack & Tools
-- [cite_start]**Backend:** PHP (Laravel, Drupal, CodeIgniter), Node.js, Express.js [cite: 24, 25, 26, 27]
-- [cite_start]**Frontend:** Vue.js, Nuxt.js, React.js, Next.js [cite: 27, 31, 62]
-- [cite_start]**DevOps/Server:** Docker, CI/CD, DigitalOcean, Load Balancing, LAMP [cite: 31, 33, 35]
-- [cite_start]**APIs & Integration:** WebRTC, MQTT, Socket.IO, Google Vision, Payment Gateways (Stripe/PayPal) [cite: 31, 32]
+## 🛠 Technical Stack
+
+### Backend
+- PHP (Laravel, Drupal, CodeIgniter)
+- API Development
+- Authentication & Authorization Systems
+
+### Frontend
+- Vue.js
+- Nuxt.js
+- React.js
+
+### Database
+- MySQL
+- MongoDB
+
+### Infrastructure & DevOps
+- Docker
+- CI/CD Pipelines
+- Linux Server Management
+- Nginx / Apache
+
+### Real-Time & IoT
+- WebRTC
+- MQTT
+- Socket.IO
+
+### Integrations
+- Payment Gateways (Stripe, PayPal)
+- Google Vision API
+- Third-party Enterprise APIs
 
 ---
 
-### 📫 Connect with me:
-- [cite_start]💼 [LinkedIn](https://www.linkedin.com/in/sumoninfo) [cite: 5]
-- [cite_start]📧 [Email](mailto:mmsumon799@gmail.com) [cite: 4]
-- [cite_start]📱 [Portfolio/GitHub](https://github.com/sumoninfo) [cite: 4]
+## 🏢 Enterprise Experience
+
+### Grameenphone (GP) – Lead Backend Developer (Augmented)
+
+- Architected and maintained Drupal-based backend systems for GP’s primary web and e-commerce platforms.
+- Implemented Docker-based infrastructure and load balancing for high availability.
+- Contributed to GP-Shop, GPFI, and Flexiplan ecosystem integrations.
+- Ensured performance stability for millions of concurrent users.
+
+---
+
+## 📁 Selected Projects
+
+### ERP System
+Enterprise Resource Planning platform built with Laravel & Vue.js  
+https://erp.miaccounts.net
+
+### Smart Fish BD
+IoT-driven automated fisheries management system  
+https://amrcwasa.com
+
+### Dr. Assistant Pro
+Digital medical assistant and prescription platform  
+https://pro.dr-assistant.com
+
+---
+
+## 📊 Professional Focus
+
+- Clean Architecture
+- Maintainable Codebase
+- Early-return coding practice (no nested condition complexity)
+- Production-grade system design
+- Long-term scalability
+
+---
+
+## 📫 Contact
+
+- LinkedIn: https://www.linkedin.com/in/sumoninfo
+- Email: mmsumon799@gmail.com
+- Location: Dhaka, Bangladesh
+
+---
+
+⭐ Backend-focused. Architecture-driven. Performance-oriented.
