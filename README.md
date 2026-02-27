@@ -33,9 +33,9 @@ I specialize in backend architecture, API-driven systems, performance optimizati
 ---
 
 ## 📁 Selected Impact Projects
-- **[ERP System](https://erp.miaccounts.net):** Enterprise Resource Planning platform built with Laravel & Vue.js.
-- **[Smart Fish BD](https://amrcwasa.com):** IoT-driven automated fisheries management system.
-- **[Dr. Assistant Pro](https://pro.dr-assistant.com):** Digital medical assistant and prescription platform.
+- **[Grameenphone Ecosystems](https://www.grameenphone.com):** Lead the backend development and maintenance for Bangladesh's largest telecom web and e-commerce platforms, ensuring stability under extreme traffic.
+- **[ERP System](https://erp.miaccounts.net):** A comprehensive Enterprise Resource Planning platform built with Laravel and Vue.js to manage complex business logic and data persistence.
+- **[Smart Water Metering System (CWASA)](https://amrcwasa.com):** An advanced IoT-driven water management system developed using Laravel and Vue.js for real-time monitoring and reporting.
 
 ---
 
