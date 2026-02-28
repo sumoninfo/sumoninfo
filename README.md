@@ -6,7 +6,7 @@ Senior Software Engineer with over 6 years of experience designing and building 
 ---
 
 ## 🏢 Current Focus: Enterprise Telecom (GP)
-**Lead Backend Developer (Augmented)**
+**Sr. Backend Developer (Augmented)**
 - 🚀 **Architecture:** Designing Drupal-based backend systems for GP’s primary web and e-commerce platforms.
 - ⚙️ **Scalability:** Managing Docker-based infrastructure and Load Balancing for millions of concurrent users.
 - 🔗 **Key Modules:** Architecting integrations for **GPFI**, **GP-Shop**, **GP-Web**, and the **Flexiplan** ecosystem.
